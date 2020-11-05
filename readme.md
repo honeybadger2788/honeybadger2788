@@ -1,6 +1,6 @@
-![Hello there!](C:\Users\AIO\Desktop\DH\Read_me\Hellothere.gif)
+# Hello there! 👋
 
-I'm currently attending a full stack developer curse so this are my first steps into the field.
+I'm currently attending a full stack developer course so this are my first steps into the field.
 
 ___________________________________________________________________________________________________________________
 
