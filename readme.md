@@ -1,6 +1,8 @@
-# Hello there! 👋
+![Hello There](https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif)
 
-I'm currently attending a full stack developer course so this are my first steps into the field.
+## About me
+
+I'm currently attending a full-stack developer course so this are my first steps into the field.
 
 ___________________________________________________________________________________________________________________
 
@@ -10,6 +12,6 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-> If you want further information about me, check *[my LinkedIn profile](https://www.linkedin.com/in/noeliabcarosella/)*
+> If you want further information, please, check *[my LinkedIn profile](https://www.linkedin.com/in/noeliabcarosella/)*
 
 > Or just send me an e-mail 👉 <noe.carosella@gmail.com> 
