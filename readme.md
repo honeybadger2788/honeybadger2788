@@ -1,4 +1,4 @@
-![Hello There](https://upload.wikimedia.org/wikipedia/commons/5/56/Hellothere.gif)
+![JSON.girlify](./bannerGithub.png)
 
 ## About me 👩‍💻: 
 
@@ -19,5 +19,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 > If you want further information, please, check *[my LinkedIn profile](https://www.linkedin.com/in/noeliabcarosella/)*
+
+> You can follow me at *[Twitter](https://twitter.com/JGirlify?s=08)* and *[Instagram](https://www.instagram.com/jgirlify/)*
 
 > Or just send me an e-mail 👉 <noe.carosella@gmail.com> 
