@@ -4,6 +4,8 @@
 
 I'm currently attending a full-stack developer course so this are my first steps into the field.
 
+> Here is *[my Web Profile](https://honeybadger2788.github.io/CV/)*
+
 ___________________________________________________________________________________________________________________
 
 ## Some of my projects 🚀:
