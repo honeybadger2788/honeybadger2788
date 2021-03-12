@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 - An app developed with my first JS's notions. With this basic script you can create a list of your pending tasks, erase, filter and even update them from your own terminal.
 
-👩‍💻👨‍💻👩‍💻 **[Play & Joy - eCommerce](https://github.com/Albert29-01/grupo_1_PlayAndJoy)**
+👩‍💻👨‍💻👩‍💻 **[Play & Joy - eCommerce](https://playandjoy.herokuapp.com/)**
 
 - For the course's final project. It's a team venture, leading with SCRUM methodology, based on building an entire website from 0. STATUS: In Process.
 
