@@ -4,15 +4,15 @@
 
 I'm currently attending a full-stack developer course so this are my first steps into the field.
 
-> Here is *[my Web Profile](https://honeybadger2788.github.io/CV/)*
+> Here is *[my Web Profile](https://honeybadger2788.github.io/newCV/)*
 
 ___________________________________________________________________________________________________________________
 
 ## Some of my projects 🚀:
 
-📝 **[App de Tareas](https://github.com/honeybadger2788/tareas_app)**
+📝 **[Disney's movies - Rest API ](https://github.com/honeybadger2788/backendChallenge)**
 
-- An app developed with my first JS's notions. With this basic script you can create a list of your pending tasks, erase, filter and even update them from your own terminal.
+- CRUD project developed in NodeJS, Express y mySQL. Documentation written in Postman and tested with Mocha and Chai.
 
 👩‍💻👨‍💻👩‍💻 **[Play & Joy - eCommerce](https://playandjoy.herokuapp.com/)**
 
