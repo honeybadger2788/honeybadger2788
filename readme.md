@@ -1,4 +1,7 @@
-![JSON.girlify](./bannerGithub.png)
+# Noelia Carosella
+### Fullstack developer
+
+___________________________________________________________________________________________________________________
 
 ## About me 👩‍💻: 
 
@@ -12,11 +15,11 @@ ________________________________________________________________________________
 
 👩‍💻👨‍💻👩‍💻 **[Alkemy Project - Backend](https://github.com/honeybadger2788/OT198-Server)**
 
--
+- CRUD project developed in NodeJS, Express y MySQL. Documentation written in Swagger and tested with Mocha and Chai.
 
 📝 **[Disney's movies - API Rest ](https://github.com/honeybadger2788/backendChallenge)**
 
-- CRUD project developed in NodeJS, Express y mySQL. Documentation written in Postman and tested with Mocha and Chai.
+- CRUD project developed in NodeJS, Express y MySQL. Documentation written in Postman and tested with Mocha and Chai.
 
 👩‍💻👨‍💻👩‍💻 **[Play & Joy - eCommerce](https://playandjoy.herokuapp.com/)**
 
