@@ -2,7 +2,7 @@
 
 ## About me 👩‍💻: 
 
-I'm currently attending a full-stack developer course so this are my first steps into the field.
+I am a developer passionate about creating innovative and scalable solutions in the world of web development. My experience in developing collaborative and personal projects has allowed me to acquire skills in technologies such as Node js, Express, MySQL, React and Javascript. My desire to learn and challenge myself drives me to seek new challenges in the workplace.
 
 > Here is *[my Web Profile](https://honeybadger2788.github.io/newCV/)*
 
