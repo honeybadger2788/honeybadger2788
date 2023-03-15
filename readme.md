@@ -1,7 +1,4 @@
-# Noelia Carosella
-### Fullstack developer
-
-___________________________________________________________________________________________________________________
+# Noelia Carosella - Fullstack Developer
 
 ## About me 👩‍💻: 
 
