@@ -4,7 +4,7 @@
 
 I am a developer passionate about creating innovative and scalable solutions in the world of web development. My experience in developing collaborative and personal projects has allowed me to acquire skills in technologies such as Node js, Express, MySQL, React and Javascript. My desire to learn and challenge myself drives me to seek new challenges in the workplace.
 
-> Here is *[my Web Profile](https://honeybadger2788.github.io/newCV/)*
+> Here is *[my Web Profile](https://pickle-acai-ebb.notion.site/Noelia-Carosella-33745680facb4715971c722e2077a55d)*
 
 ## Github Analytics 🚀:
 
